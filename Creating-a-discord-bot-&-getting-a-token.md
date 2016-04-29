@@ -8,7 +8,7 @@ Click "Create Application". On the next page scroll down until you see "Create a
 Now you can get your bots token, In the app bot user section there is a "click to reveal button", click it.
 ![New Bot Page](http://i.imgur.com/CZNFK0D.png)
 ![Token](http://i.imgur.com/L0UlYL4.png)
-There's your token! Now its time to invite your bot to your server. Don't worry about your bot being started for this next step. Change the client_id, then go to this url ```https://discordapp.com/oauth2/authorize?&client_id=157730590492196864&scope=bot&permissions=0```
+There's your token! Now its time to invite your bot to your server. Don't worry about your bot being started for this next step. Change the client_id to your Client ID under App Details, then go to this url ```https://discordapp.com/oauth2/authorize?&client_id=157730590492196864&scope=bot&permissions=0```
 ![Authorize Bot](http://i.imgur.com/Kqwbyjc.png)
 Now select your sever, then click authorize.
 ![Authorized](http://i.imgur.com/huo5Hjp.png)
